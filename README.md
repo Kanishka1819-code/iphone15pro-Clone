@@ -1,12 +1,37 @@
-# React + Vite
+A visually stunning and high-performance clone of the official Apple iPhone 15 Pro landing page. Built using React, Three.js, and GSAP, this project demonstrates advanced frontend development techniques with smooth 3D animations, scroll-based transitions, and pixel-perfect UI.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔥 Highlights
+⚛️ React for component-based UI
 
-Currently, two official plugins are available:
+🌀 GSAP for scroll-triggered animations
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🌐 Three.js for 3D visual rendering
 
-## Expanding the ESLint configuration
+💨 Vite for fast development builds
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📱 Fully responsive and mobile-friendly
+
+🧩 Inspired by Apple’s design philosophy
+
+🛠 Tech Stack
+React.js
+
+Three.js
+
+GSAP (ScrollTrigger)
+
+Tailwind CSS
+
+Vite
+
+# Clone the repository
+git clone https://github.com/your-username/iphone15pro-clone.git
+
+# Go to the project directory
+cd iphone15pro-clone
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
